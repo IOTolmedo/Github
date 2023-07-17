@@ -2,5 +2,8 @@ body{
     background-color: aqua;
 }
 .div1{
-    
+grid-row: inherit;
+}
+img{
+    height: 200px;
 }
